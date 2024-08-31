@@ -1,7 +1,7 @@
 # Anirudh S Gopal
 
 ## About
-I am currently pursuing a **Bachelor's degree in Computer Science and Engineering** at Acharya Institute of Technology. I am passionate about web development and excited to expand my skills and knowledge in this field. I have experience with React.js, API integration, and responsive design, and I’m always eager to learn new technologies and tackle challenging projects.
+I am currently pursuing a **Bachelor's degree in Computer Science and Engineering** at Acharya Institute of Technology. I am passionate about **web development** and excited to expand my skills and knowledge in this field. I have experience with React.js, API integration, and responsive design, and I’m always eager to learn new technologies and tackle challenging projects.
 
 ## Technical Skills
 - **Languages:** C, C++, HTML5, CSS3, JavaScript
@@ -12,7 +12,8 @@ I am currently pursuing a **Bachelor's degree in Computer Science and Engineerin
 - **Additional Skills:** Problem Solving, Practicing DSA, Critical Thinking, Keen on Learning About New Technology
 
 ## Education
-- **Bachelor of Engineering (B.E.), Computer Science and Engineering** | Acharya Institute of Technology (_Expected Completion: 2023-2027_)
+-
+  **Bachelor of Engineering (B.E.), Computer Science and Engineering** | Acharya Institute of Technology (_Expected Completion: 2023-2027_)
 
 ## Projects
 ### Netflix Platform
