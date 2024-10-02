@@ -1,7 +1,6 @@
 
-
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/anirudhsgopal/)&nbsp;&nbsp;&nbsp;
-[<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>](https://github.com/AnirudhSGopal)&nbsp;&nbsp;&nbsp;
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="30"/>](https://github.com/AnirudhSGopal)&nbsp;&nbsp;&nbsp;
 [<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30"/>](mailto:anirudhsgopal9069@gmail.com)&nbsp;&nbsp;&nbsp;
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="30"/>](https://www.instagram.com/anirudhsgopal/)
 
@@ -17,8 +16,14 @@ I am currently pursuing a **Bachelor's degree in Computer Science and Engineerin
 - **Additional Skills:** Problem Solving, Practicing DSA, Critical Thinking, Keen on Learning About New Technology
 
 ## Education
--
-  **Bachelor of Engineering (B.E.), Computer Science and Engineering** | Acharya Institute of Technology (_Expected Completion: 2023-2027_)
+- **Bachelor of Engineering (B.E.), Computer Science and Engineering** | Acharya Institute of Technology (_Expected Completion: 2023-2027_)
+
+## Certifications
+- [C for Everyone](anirudhcforeveryone.pdf) (January 2, 2024)
+- [Introduction to Artificial Intelligence (AI)](aiwithanirudh.pdf) (February 12, 2024)
+- [English for Career Development](englishanirudh.pdf) (March 23, 2024)
+- [Getting started with Git & GitHub](gitanirudh.pdf) (April 11, 2024)
+- [Developing Front-End Apps with React](reactjsanirudh.pdf) (April 20, 2024)
 
 ## Projects
 ### Netflix Platform
