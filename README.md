@@ -19,11 +19,12 @@ I am currently pursuing a **Bachelor's degree in Computer Science and Engineerin
 - **Bachelor of Engineering (B.E.), Computer Science and Engineering** | Acharya Institute of Technology (_Expected Completion: 2023-2027_)
 
 ## Certifications
-- [C for Everyone](anirudhcforeveryone.pdf) (January 2, 2024)
-- [Introduction to Artificial Intelligence (AI)](aiwithanirudh.pdf) (February 12, 2024)
-- [English for Career Development](englishanirudh.pdf) (March 23, 2024)
-- [Getting started with Git & GitHub](gitanirudh.pdf) (April 11, 2024)
-- [Developing Front-End Apps with React](reactjsanirudh.pdf) (April 20, 2024)
+- [C for Everyone](https://drive.google.com/file/d/1YPTSr-kICJdLmhO3pIiQIZIOMBPbZEpp/view?usp=drive_link) (January 2, 2024)
+- [Introduction to Artificial Intelligence (AI)](https://drive.google.com/file/d/1AuSf35rIDh7Z2SKOd_glk9etSkkm6R9B/view?usp=drive_link)(February 12, 2024)
+- [JavaScript Programming Essentials](https://drive.google.com/file/d/19DlYgVGlDyA4NIJaIUkNuMhVhk3e-BW5/view?usp=drive_link) (March 13, 2024)
+- [English for Career Development](https://drive.google.com/file/d/1S9kVhlgt6cWb0JSp1LIoGQbJwv5jJqEE/view?usp=drive_link) (March 23, 2024)
+- [Getting started with Git & GitHub](https://drive.google.com/file/d/1pIL6jEgJZPZtivz_bWsXK1SZVfTBQ8ED/view?usp=drive_link) (April 11, 2024)
+- [Developing Front-End Apps with React](https://drive.google.com/file/d/1C_RlpbeGi0uoZ54Xqoih4l1C82ixdZYe/view?usp=drive_link) (April 20, 2024)
 
 ## Projects
 ### Netflix Platform
