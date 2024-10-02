@@ -1,11 +1,9 @@
 
 
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/anirudhsgopal/)&nbsp;&nbsp;&nbsp;
-[<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="30"/>](https://www.instagram.com/anirudhsgopal/)&nbsp;&nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30"/>](mailto:anirudhsgopal9069@gmail.com)
-
-
-
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>](https://github.com/AnirudhSGopal)&nbsp;&nbsp;&nbsp;
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30"/>](mailto:anirudhsgopal9069@gmail.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="30"/>](https://www.instagram.com/anirudhsgopal/)
 
 ## About
 I am currently pursuing a **Bachelor's degree in Computer Science and Engineering** at Acharya Institute of Technology. I am passionate about **web development** and excited to expand my skills and knowledge in this field. I have experience with React.js, API integration, and responsive design, and I’m always eager to learn new technologies and tackle challenging projects.
