@@ -1,7 +1,10 @@
 
-[<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/anirudhsgopal/)
-[<img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" width="30"/>](https://www.instagram.com/anirudhsgopal/)
-[<img src="https://img.icons8.com/ios-glyphs/50/000000/new-post.png" width="30"/>](mailto:anirudhsgopal9069@gmail.com)
+
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/anirudhsgopal/)&nbsp;&nbsp;&nbsp;
+[<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="30"/>](https://www.instagram.com/anirudhsgopal/)&nbsp;&nbsp;&nbsp;
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30"/>](mailto:anirudhsgopal9069@gmail.com)
+
+
 
 
 ## About
