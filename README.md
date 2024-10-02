@@ -1,7 +1,8 @@
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhsgopal/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anirudhsgopal/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhsgopal9069@gmail.com)
+
+[<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/anirudhsgopal/)
+[<img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" width="30"/>](https://www.instagram.com/anirudhsgopal/)
+[<img src="https://img.icons8.com/ios-glyphs/50/000000/new-post.png" width="30"/>](mailto:anirudhsgopal9069@gmail.com)
+
 
 ## About
 I am currently pursuing a **Bachelor's degree in Computer Science and Engineering** at Acharya Institute of Technology. I am passionate about **web development** and excited to expand my skills and knowledge in this field. I have experience with React.js, API integration, and responsive design, and I’m always eager to learn new technologies and tackle challenging projects.
