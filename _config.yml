@@ -1,6 +1,7 @@
 title: Anirudh S Gopal
-logo: /assets/img/headshot_circle.png
+logo :https://github.com/AnirudhSGopal/AnirudhSGopal.github.io/blob/c47617af12c87547cb0e8bf098ccbb486aecac36/anirudh028.png
+#/assets/img/headshot_circle.png 
 #description: text below image
-![alt text](https://github.com/AnirudhSGopal/AnirudhSGopal.github.io/blob/1ed25a8ffd0ee8e81fa52bf6e0efdf71f48d3a3d/IMG-20241002-WA0016.jpg)
+
 
 theme: jekyll-theme-minimal
